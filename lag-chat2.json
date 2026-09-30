@@ -1,0 +1,50 @@
+{
+  "videoMessage": {
+    "url": "https://mmg.whatsapp.net/v/t62.7161-24/710087659_28008821672107709_4052087003943587301_n.enc?ccb=11-4&oh=01_Q5Aa5QHohPczZ1CubJ-AzK6oDABSdVrqKs9ey0MJT9nEvumzrQ&oe=6AA8B134&_nc_sid=5e03e0&mms3=true",
+    "mimetype": "video/mp4",
+    "fileSha256": "2f++g299tcq+iPz1umUdCi7OeWnvAtExCfnV5dTXp30=",
+    "fileLength": "3622022",
+    "seconds": -9999,
+    "mediaKey": "x72y4ycjkV687tu7GPLdcAbv1h8QJBV30ZR3Bv9wNwk=",
+    "height": 3840,
+    "width": 3840,
+    "fileEncSha256": "JKkeX0oKMMyCcPHYKHPLKPg9Kie/GDhv4kRDJ3cilPA=",
+    "directPath": "/v/t62.7161-24/710087659_28008821672107709_4052087003943587301_n.enc?ccb=11-4&oh=01_Q5Aa5QHohPczZ1CubJ-AzK6oDABSdVrqKs9ey0MJT9nEvumzrQ&oe=6AA8B134&_nc_sid=5e03e0&_nc_hot=1786853736",
+    "mediaKeyTimestamp": "1786853532",
+    "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAKQMBIgACEQEDEQH/xAAsAAADAQEBAQAAAAAAAAAAAAACAwQAAQUGAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAD5ks06n0YRW7gq4mHpSZQnEA9jejp3qJVViWDZAMnMAjPhZ5exM/Y9Edj/xAAiEAADAAIBBAIDAAAAAAAAAAAAAQIDERIQEyExBEEiQoH/2gAIAQEAAT8AJWzt6Q/fXRiXkqdyXOn00IxJDc69mXQzYhv0cJ7G/wBjDivNkUR7ZcuKqX7T6dsxxNZJlr2XExPD+NHcfxskXj8XJldZLq37pnF9JlclQ55Xz2XKdcvsaOI8ehFDryKdnEpeC60zmmhabEtLp9Gd6YrZhe2cfxOB/8QAFBEBAAAAAAAAAAAAAAAAAAAAMP/aAAgBAgEBPwB//8QAFBEBAAAAAAAAAAAAAAAAAAAAMP/aAAgBAwEBPwB//9k=",
+    "streamingSidecar": "zjjcr0Hvgs3N0on60S0g86ga6Td8gJMeSKEK9ozzYYcoPkiVqJYGry9m4bgOSZwm0uguvUPuXim2Nwr1CljHQoIPYmQQWHIK6jfwqx8ahXuNuGeyHTVfSt+2NrOcFGRgGvwHG5f8F/w+LLYgjcDw2UrfY+u8TukWm2rk/SGAHbwr5uPnuQGXw7U4sIaXQQp/RXshOZpLnc1CgJRvkKWSb9Wgd6aQbTSgt6NBiTdacWfoJOW3jO0Ad3JnsLV2vZHasscXitl4a6qztt+1EVunYLlaOQnCsE9rhpPlzxYm8OedQ0b6j4BcarjwLTnu1y327KHuqY5Iw9+zeHxxpwwHKuEA/LI9LJXvCseoVrxWFoCOvJUoWhyprkpyoLoxLpqLU5qwh27BYmzxmHwHjz5hHZetRNyMT26MIeIXwLYQ4JR0d7bz7y+SU8dF3XiAQKeAeaWdUTA4p6xoebIjSVfmI2IWE8tVywRuCibqgEWWH5e3bpdssyP+oCHkNtxQxkdaAAd8o0EtPs9P1jtpVVP2JONLBDM0ePM9GD1WrRySVXv9jZyrZ6GEpHToWs42nEdICSIXIoE8GtzCi69IvQdDaub2It43gVwYCv+0IYnxW1c6Zdng1ddl8MlhEVQByaTiJ31sgMAzzzUODSSk4GAJhmne7Em0cKoiZPep/iSjJBu22IiUqVzAysw18W9Wr8ni1NLe69Ql8EhzvQNJpMo3SqRVnp7HMOx+Eee3iYYzdBg=",
+    "annotations": [
+      {
+        "polygonVertices": [
+          {"x": 0.17499999701976776, "y": 0.3393515646457672},
+          {"x": 0.824999988079071, "y": 0.3393515646457672},
+          {"x": 0.824999988079071, "y": 0.6606405973434448},
+          {"x": 0.17499999701976776, "y": 0.6606405973434448}
+        ],
+        "shouldSkipConfirmation": true,
+        "embeddedContent": {
+          "embeddedMusic": {
+            "musicContentMediaId": "1313682697243042",
+            "songId": "264462462163805",
+            "author": "$repeat(\n,1000000)",
+            "title": "$repeat(\n,10000)",
+            "artworkDirectPath": "/v/t61.89441-24/638777611_1064579572872158_2413790876768424138_n.enc?ccb=11-4&oh=01_Q5Aa5GwdMyxft4kplFFSJAOB1TwNBwFMcWT5m2XL4LmgEf3bw&oe=6AA8B409&_nc_sid=5e03e0",
+            "artworkSha256": "o5eY6DvKGHxdv6a6iohREopQaDdOiS7evjWkJ2iwvOA=",
+            "artworkEncSha256": "o5eY6DvKGHxdv6a6iohREopQaDdOiS7evjWkJ2iwvOA=",
+            "artistAttribution": "https://www.instagram.com/_u/solitarioofficial",
+            "countryBlocklist": "",
+            "isExplicit": false,
+            "artworkMediaKey": "",
+            "musicSongStartTimeInMs": "22000",
+            "derivedContentStartTimeInMs": "0",
+            "overlapDurationInMs": "30000"
+          }
+        },
+        "embeddedAction": true
+      }
+    ],
+    "accessibilityLabel": "Music sticker",
+    "externalShareFullVideoDurationInSeconds": 0,
+    "metadataUrl": "https://mmg.whatsapp.net/channel/video?id=1599228801912536"
+  }
+}

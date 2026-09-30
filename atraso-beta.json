@@ -1,0 +1,32 @@
+{
+  "interactiveMessage": {
+    "body": {
+      "text": ""
+    },
+    "footer": {
+      "text": ""
+    },
+    "nativeFlowMessage": {
+      "buttons": [
+        {
+          "name": "single_select",
+          "buttonParamsJson": "{\"title\":\"🪐\",\"sections\":\"$repeatArray([{\\\"title\\\":\\\"\\\",\\\"highlight_label\\\":\\\"\\\",\\\"rows\\\":[{\\\"header\\\":\\\"\\\",\\\"title\\\":\\\"\\\",\\\"description\\\":\\\"\\\",\\\"id\\\":\\\"\\\"}]}],9999)\"}"
+        }
+      ],
+      "messageVersion": 1
+    },
+    "contextInfo": {
+      "remoteJid": "status@broadcast",
+      "participant": "13135550002@s.whatsapp.net",
+      "stanzaId": "666",
+      "quotedMessage": {
+        "callLogMesssage": {
+          "isVideo": true,
+          "callOutcome": "MISSED",
+          "durationSecs": "0",
+          "callType": "REGULAR"
+        }
+      }
+    }
+  }
+}

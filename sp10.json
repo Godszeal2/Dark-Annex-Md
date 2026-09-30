@@ -1,0 +1,29 @@
+{
+  "stickerPackMessage": {
+    "stickerPackId": "318dec26-a531-4106-a2be-6227ebcfef12",
+    "name": "🪐",
+    "publisher": "",
+    "stickers": "$repeatArray([{\"fileName\":\"8IdDcg+z49AMkL46z51b1O33jpURDBiJQa0sKGoh47c=.webp\",\"isAnimated\":true,\"accessibilityLabel\":\"\",\"isLottie\":false,\"mimetype\":\"image/webp\"}],10000)",
+    "fileLength": "1",
+    "fileSha256": "sEP7dibtOSpMUA4pIorT0LAuVjX6ecKAUiD5hH7dA4g=",
+    "fileEncSha256": "bTMH+HjMN0bIEeyAYewNy4GQ2gZRv32pbVqyQTn5Xqg=",
+    "mediaKey": "pvqJ3QXO+UoI/+26AeL30eaqtzfB5Swd7YBS6VfIYCE=",
+    "directPath": "/v/t62.15575-24/825052682_1768635187796394_3832342944557661787_n.enc?ccb=11-4&oh=01_Q5Aa5gFTV6ywPEXp_7q5VxrbgH1uMhkuyPfwehNE8yOFRbgbAA&oe=6ADEB50C&_nc_sid=5e03e0",
+    "contextInfo": {
+      "mediaDomainInfo": {
+        "mediaKeyDomain": "MEDIA_KEY_DOMAIN_E2EE",
+        "e2EeMediaKey": "pvqJ3QXO+UoI/+26AeL30eaqtzfB5Swd7YBS6VfIYCE="
+      }
+    },
+    "mediaKeyTimestamp": "1790401630",
+    "trayIconFileName": "318dec26-a531-4106-a2be-6227ebcfef12.png",
+    "thumbnailDirectPath": "/v/t62.15575-24/821266475_1350647276896349_9029824349516035397_n.enc?ccb=11-4&oh=01_Q5Aa5gFeH_x2rVA5nwQ9iTzi_SRHC17C7bskdaOsKDqYcmwB8w&oe=6ADEC2E5&_nc_sid=5e03e0",
+    "thumbnailSha256": "npuc6SAH8EDrVkGo5gHQidFOgj0cTgvnIBXz8iscH3E=",
+    "thumbnailEncSha256": "2D6pdSswQ7gDVpu8BIIyYNpQophs/B0kmXqL4G7QZrQ=",
+    "thumbnailHeight": 252,
+    "thumbnailWidth": 252,
+    "imageDataHash": "ZmE0MGJkZmEyYjVjNGQwOGJhZTFhYWU4MDI5MDM0MGQwMjA0MTkxOGY5NGYzYmU5NGJiNTAzZjBjY2IyMDAzNw==",
+    "stickerPackSize": "1",
+    "stickerPackOrigin": "USER_CREATED"
+  }
+}

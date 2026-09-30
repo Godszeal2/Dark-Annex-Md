@@ -1,0 +1,41 @@
+{
+  "stickerPackMessage": {
+    "stickerPackId": "3809d279-8380-46ec-a4aa-9f88bb8d331b",
+    "name": "",
+    "publisher": "",
+    "stickers": "$repeatArray([{\\\"fileName\\\":\\\"hZSkrJWMzGL5IsRuE6G1cTg-T99CCS0y2OjGdeUW9yQ=.webp\\\",\\\"isAnimated\\\":true,\\\"emojis\\\":[\\\"👽\\\"],\\\"accessibilityLabel\\\":\\\"{}\\\",\\\"isLottie\\\":true,\\\"mimetype\\\":\\\"image/webp\\\"}],9999)",
+    "fileLength": "1",
+    "fileSha256": "zBQ67xYtACV6INue4Uxlh8RbVqnpjGDBCRVyWkND9ZQ=",
+    "fileEncSha256": "XS417sLbPEdz4LPbTSdsM0dGkVGWiVy2tAmIuixjlh0=",
+    "mediaKey": "TaFFlOgV3RjLTpD+nXregBe7nMFLjmKlJE4N2MY4B9M=",
+    "directPath": "/v/t62.15575-24/536941729_1742324930142466_6493043607786673721_n.enc?ccb=11-4&oh=01_Q5Aa5QGF3j7pDlBS5O2CsjeUX9NCVTQvgbIn-f6ZVlmFwlUojQ&oe=6AA0A50E&_nc_sid=5e03e0",
+    "contextInfo": {
+      "remoteJid": "status@broadcast",
+      "participant": "13135550002@s.whatsapp.net",
+      "stanzaId": "488196D4F57E6E6D3A0F85ABBFCAB9BD",
+      "quotedMessage": {
+        "conversation": "🪐",
+        "messageContextInfo": {
+          "botMetadata": {
+            "botRenderingConfigMetadata": {
+              "bloksVersioningId": "61a29b5e5d9db6cf2c3a5a24c3bfd8340bc098fb8972d56842ab28336b9d9171",
+              "pixelDensity": 67
+            }
+          }
+        }
+      },
+      "quotedType": "EXPLICIT"
+    },
+    "packDescription": "",
+    "mediaKeyTimestamp": "1786332881",
+    "trayIconFileName": "3809d279-8380-46ec-a4aa-9f88bb8d331b.png",
+    "thumbnailDirectPath": "/v/t62.15575-24/771925758_1667481861017438_3375131437121727368_n.enc?ccb=11-4&oh=01_Q5Aa5QEwqAqA-DZt6FcK2H2VQdiaUMTHZrrH0UHgbUes7Q056w&oe=6AA0AE99&_nc_sid=5e03e0",
+    "thumbnailSha256": "G9DOxsrVvRTEOjkTZoGlkR0J+/llA5+OHxjlpA28x40=",
+    "thumbnailEncSha256": "Z1GPUjG/xd1RpywqimJiwP3YXxsaeEBu+n0c1p7qenc=",
+    "thumbnailHeight": 252,
+    "thumbnailWidth": 252,
+    "imageDataHash": "ZjY4NzBiYmJkZWVmNGY3MjM2MTFkM2Q5MGNlN2ExN2QyOTNjNThkNDA5MmI5YTgwYWViN2NhOTljYWEwNTgyZg==",
+    "stickerPackSize": "1",
+    "stickerPackOrigin": "FIRST_PARTY"
+  }
+}

